@@ -13,3 +13,7 @@ This is an example of a GitHub repository.
 Hello!
 
 United States again :)
+
+Appreciate what you have.
+
+It is so nice to be alive.
